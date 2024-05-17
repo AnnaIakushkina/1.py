@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed312674-af12-48ba-8807-2c79115401f1" name="Changes" comment="1.py">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ed312674-af12-48ba-8807-2c79115401f1" name="Changes" comment="2.py" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -120,12 +118,61 @@
       <option name="project" value="LOCAL" />
       <updated>1715937937295</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="1.py">
+      <option name="closed" value="true" />
+      <created>1715939526412</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1715939526412</updated>
+    </task>
+    <task id="LOCAL-00005" summary="1.py">
+      <option name="closed" value="true" />
+      <created>1715939590471</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1715939590471</updated>
+    </task>
+    <task id="LOCAL-00006" summary="1.py">
+      <option name="closed" value="true" />
+      <created>1715939611538</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1715939611538</updated>
+    </task>
+    <task id="LOCAL-00007" summary="1.py">
+      <option name="closed" value="true" />
+      <created>1715939762941</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1715939762941</updated>
+    </task>
+    <task id="LOCAL-00008" summary="2.py">
+      <option name="closed" value="true" />
+      <created>1715939968087</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1715939968087</updated>
+    </task>
+    <task id="LOCAL-00009" summary="2.py">
+      <option name="closed" value="true" />
+      <created>1715939990238</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1715939990238</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.py" />
+    <MESSAGE value="2.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="2.py" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
